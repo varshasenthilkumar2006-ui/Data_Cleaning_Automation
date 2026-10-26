@@ -1,0 +1,12 @@
+CustomerID,Name,Age,Gender,City,Purchase_Amount,Join_Date
+101,Rahul,25.0,Male,Chennai,1500,2023-01-15
+102,Priya,30.0,Female,Mumbai,2300,2023-02-20
+103,Amit,28.0,Male,Delhi,1800,2023-01-10
+104,Sneha,28.0,Female,Chennai,1200,2023-03-05
+105,Rahul,25.0,Male,Chennai,1500,2023-01-15
+106,Anjali,35.0,Female,Bangalore,3000,2023-04-12
+107,Vikram,40.0,Male,Mumbai,2500,2023-02-28
+108,Unknown,22.0,Female,Delhi,900,2023-05-01
+109,Sneha,28.0,Female,Chennai,1200,2023-03-05
+110,Karan,28.0,Male,Pune,2000,2023-06-18
+111,Divya,27.0,Female,Hyderabad,1700,2023-07-22
