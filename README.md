@@ -59,5 +59,4 @@ data quality to prepare datasets for further analysis.
 - Workflow Automation
 - File Handling
 
-## 👨‍💻 Author
-Created as a Data Analytics portfolio project.
+
