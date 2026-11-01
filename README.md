@@ -58,5 +58,10 @@ data quality to prepare datasets for further analysis.
 - Data Quality Validation
 - Workflow Automation
 - File Handling
+- ## output
+- <img width="1793" height="1001" alt="Screenshot 2026-11-01 091917" src="https://github.com/user-attachments/assets/decd2d9b-af59-4e80-918b-501532e46c70" />
+<img width="1907" height="1011" alt="Screenshot 2026-11-01 091938" src="https://github.com/user-attachments/assets/8055142f-af36-45ca-8060-df992f782a04" />
+
+
 
 
